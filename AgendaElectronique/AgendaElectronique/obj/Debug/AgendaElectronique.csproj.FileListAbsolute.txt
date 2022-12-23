@@ -1,0 +1,9 @@
+c:\users\loulou\documents\visual studio 2015\Projects\AgendaElectronique\AgendaElectronique\bin\Debug\AgendaElectronique.exe.config
+C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\bin\Debug\AgendaElectronique.exe.config
+C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\bin\Debug\AgendaElectronique.exe
+C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\bin\Debug\AgendaElectronique.pdb
+C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\obj\Debug\AgendaElectronique.csprojResolveAssemblyReference.cache
+C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\obj\Debug\AgendaElectronique.Properties.Resources.resources
+C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\obj\Debug\AgendaElectronique.csproj.GenerateResource.Cache
+C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\obj\Debug\AgendaElectronique.exe
+C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\obj\Debug\AgendaElectronique.pdb
