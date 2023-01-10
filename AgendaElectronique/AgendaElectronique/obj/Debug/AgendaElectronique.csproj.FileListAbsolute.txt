@@ -7,3 +7,11 @@ C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\obj\De
 C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\obj\Debug\AgendaElectronique.csproj.GenerateResource.Cache
 C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\obj\Debug\AgendaElectronique.exe
 C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\obj\Debug\AgendaElectronique.pdb
+C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\obj\Debug\AgendaElectronique.S_enregistrer.resources
+C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\obj\Debug\AgendaElectronique.Form1.resources
+C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\obj\Debug\AgendaElectronique.S_authentifier.resources
+C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\obj\Debug\AgendaElectronique.AddEvent.resources
+C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\obj\Debug\AgendaElectronique.EventsList.resources
+C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\obj\Debug\AgendaElectronique.DeleteEvent.resources
+C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\obj\Debug\AgendaElectronique.ModifierEvent.resources
+C:\Users\LOULOU\Agenda-Electronique\AgendaElectronique\AgendaElectronique\obj\Debug\AgendaElectronique.RechercheEvent.resources
